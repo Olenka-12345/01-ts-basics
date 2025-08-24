@@ -1,3 +1,3 @@
-import './task-1';
-import './task-2';
+import './task-1.ts';
+import './task-2.ts';
 import './task-8';
